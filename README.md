@@ -1,12 +1,13 @@
 
+## About Me
+Frontend developer shifting focus to DevOps with a development background and strong social skills. Currently enrolled
+in DevOps coursework to expand skills, actively pursuing DevOps roles.
 
 ## Education
 - **B.Sc. in Information Systems**  
   , The Academic College of Tel Aviv-Yaffo (2019 - 2022)
 - **DevSecOps Course**  
   Bar-Ilan University (2024-2025)
-
-Frontend developer shifting focus to DevOps with a development background
 
 ## Languages and Tools:
 <p align="left">
