@@ -21,6 +21,7 @@ in DevOps coursework to expand skills, actively pursuing DevOps roles.
   <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" alt="AWS" style="width: 48px; height: 48px; margin-right: 10px;"/>
 </p>
 
 ## Socials
