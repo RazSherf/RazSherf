@@ -9,19 +9,19 @@ in DevOps coursework to expand skills, actively pursuing DevOps roles.
   Bar-Ilan University (2024-2025)
 ## Languages and Tools:
 <p align="left">
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style=" margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" alt="AWS" style="width: 48px; height: 48px; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bash.svg" alt="Bash" style="width: 48px; height: 48px; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" alt="Docker" style="width: 48px; height: 48px; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jenkins.svg" alt="Jenkins" style="width: 48px; height: 48px; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kubernetes.svg" alt="Kubernetes" style="width: 48px; height: 48px; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/node-dot-js.svg" alt="Node.js" style="width: 48px; height: 48px; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" alt="React" style="width: 48px; height: 48px; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mongodb.svg" alt="MongoDB" style="width: 48px; height: 48px; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="Python" style="width: 48px; height: 48px; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/terraform.svg" alt="Terraform" style="width: 48px; height: 48px; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" alt="Git" style="width: 48px; height: 48px; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub" style="width: 48px; height: 48px; margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/argo-cd.svg" alt="Argo CD" style="width: 48px; height: 48px;"/>
 </p>
 
 ## Socials
