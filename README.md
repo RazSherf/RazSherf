@@ -10,7 +10,8 @@ in DevOps coursework to expand skills, actively pursuing DevOps roles.
 
 ## Languages and Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" width="60"/>
+  ![Python Badge](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
+<!--   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" width="60"/>
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker" width="60"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" width="60"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" width="60"/>
@@ -24,8 +25,8 @@ in DevOps coursework to expand skills, actively pursuing DevOps roles.
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub" width="60"/>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" width="60"/>
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js" width="60"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=flat&logo=graphql&logoColor=white" alt="GraphQL" width="60"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="60"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=flat&logo=graphql&logoColor=white" alt="GraphQL" width="60"/> -->
+<!--   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="60"/> -->
 </p>
 
 ## Socials
