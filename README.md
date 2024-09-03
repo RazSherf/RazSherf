@@ -27,6 +27,5 @@ in DevOps coursework to expand skills, actively pursuing DevOps roles.
 <p align="left">
   <a href="https://www.linkedin.com/in/raz-sherf/" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="GitHub" style="margin-right: 10px;"/>
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
