@@ -1,11 +1,10 @@
-
 ## About Me
 Frontend developer shifting focus to DevOps with a development background and strong social skills. Currently enrolled
 in DevOps coursework to expand skills, actively pursuing DevOps roles.
 
 ## Education
 - **B.Sc. in Information Systems**  
-  , The Academic College of Tel Aviv-Yaffo (2019 - 2022)
+  The Academic College of Tel Aviv-Yaffo (2019 - 2022)
 - **DevSecOps Course**  
   Bar-Ilan University (2024-2025)
 
@@ -22,10 +21,5 @@ in DevOps coursework to expand skills, actively pursuing DevOps roles.
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
 
-
 ## Socials
-<p align="left">
- <a href="https://www.linkedin.com/in/raz-sherf/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raz-sherf/)
