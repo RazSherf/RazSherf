@@ -9,19 +9,19 @@ in DevOps coursework to expand skills, actively pursuing DevOps roles.
   Bar-Ilan University (2024-2025)
 ## Languages and Tools:
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/argo.png" alt="Argo"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style="filter: invert(1); margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/argo-cd.png" alt="Argo CD"/>
 </p>
 
 ## Socials
