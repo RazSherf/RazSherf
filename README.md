@@ -1,12 +1,12 @@
-# Hi there 👋
+
 
 ## Education
-- **Bachelor's degree in Business Administration and Economics**  
-  Ariel University (2020-2023)
-- **DevOps Course**  
-  RT-ED College, Tel Aviv (2023-2024)
+- **B.Sc. in Information Systems**  
+  , The Academic College of Tel Aviv-Yaffo (2019 - 2022)
+- **DevSecOps Course**  
+  Bar-Ilan University (2024-2025)
 
-I'm always looking for new opportunities to learn and grow in the DevOps field. If you're looking for someone with a strong technical background, quick learning ability, and capability to work under pressure, I'd love to connect!
+Frontend developer shifting focus to DevOps with a development background
 
 ## Languages and Tools:
 <p align="left">
@@ -28,10 +28,7 @@ I'm always looking for new opportunities to learn and grow in the DevOps field. 
 
 ## Socials
 <p align="left">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/raz-sherf" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
