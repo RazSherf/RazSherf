@@ -9,6 +9,7 @@ in DevOps coursework to expand skills, actively pursuing DevOps roles.
   Bar-Ilan University (2024-2025)
 ## Languages and Tools:
 <p align="left">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style=margin-right: 10px; color=white" />
   <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="margin-right: 10px;"/>
@@ -17,7 +18,6 @@ in DevOps coursework to expand skills, actively pursuing DevOps roles.
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="margin-right: 10px;"/>
