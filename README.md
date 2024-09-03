@@ -28,7 +28,8 @@ Frontend developer shifting focus to DevOps with a development background
 
 ## Socials
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/raz-sherf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ <a href="https://www.linkedin.com/in/raz-sherf/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>alt="LinkedIn"/>
   </a>
 </p>
