@@ -19,6 +19,7 @@ in DevOps coursework to expand skills, actively pursuing DevOps roles.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Argo-%2300C6D7?style=flat-square&logo=argo&logoColor=white" alt="Argo"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
 </p>
   <!-- Add more logos as needed -->
 </p>
