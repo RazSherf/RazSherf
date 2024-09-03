@@ -9,7 +9,7 @@ in DevOps coursework to expand skills, actively pursuing DevOps roles.
   Bar-Ilan University (2024-2025)
 ## Languages and Tools:
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style="filter: invert(1); margin-right: 10px;"/>
+  <img src="[https://img.icons8.com/color/48/000000/amazon-web-services.png](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)" alt="AWS" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" style="margin-right: 10px;"/>
